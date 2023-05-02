@@ -1,0 +1,30 @@
+.bgimg{
+	background-color: rgb(137, 49, 49);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 100%;
+	height: 800px;
+}
+
+.ourteam{
+	height: 700px;
+	padding: 100px 0px 60px;
+	width: 100%;
+}
+
+.ourteam h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.ourteam p{
+    font-size: 20px;
+}
+.ourteam h2{
+    font-size: 40px;
+    font-weight: bold; 
+}
+
+.teamsetting{
+	margin-top: 50px !important;
+}
+

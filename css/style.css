@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-image: url('https://cf-images.us-east-1.prod.boltdns.net/v1/static/3281700261001/36706cc6-eb8f-4ade-bee4-1da64bd786c9/52321864-660a-4558-8c31-44584f1a9554/1280x720/match/image.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 660px;
+}
+
+.container{
+    margin-top: 10%;
+    margin-left: 35%;
+    margin-right: 35%;
+    padding-left: 5%;
+    padding-bottom: 5%;
+    margin-bottom: 30%;
+    background-color: rgb(225, 212, 212);
+}
+
+.header{
+    padding-top: 10%;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.detail{
+    margin-top: 5%;
+    margin-right: 20%;
+    color: rgb(74, 40, 40);
+    font-weight: 600;
+}
+
+.reason{
+    margin-top: 5%;
+    font-weight: 700;
+}
+
+.check{
+    color: rgb(74, 40, 40);
+    margin-top: 2%;
+}
+
+.Confirm{
+    margin-top: 5%;
+    font-weight: 600;
+}
+
+.input{
+    margin-top: 2%;
+    width: 80%;
+    height: 30px;
+    border-radius: 5px;
+}
+
+button{
+    margin-top: 5%;
+    padding: 5px;
+    width: 80%;
+    height: 30px;
+    background-color: rgb(246,12,51);
+    color: white;
+    border-radius: 5px;
+    font-size: 15px;
+}
